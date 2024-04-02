@@ -1,0 +1,15 @@
+/* CurrencyStyles.css */
+
+/* Sets the background color of the container to light green */
+.alert-secondary {
+    background-color: #ccffcc; /* Light green */
+}
+
+/* Sets the option background to white on hover */
+select option {
+    background-color: #ccffcc;
+}
+
+select option:hover {
+    background-color: white;
+}
